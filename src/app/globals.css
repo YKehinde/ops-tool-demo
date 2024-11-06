@@ -16,7 +16,7 @@ body {
 }
 
 label {
-  @apply text-lg mx-3;
+  @apply text-lg mx-3 text-red-600;
 }
 
 @layer utilities {
